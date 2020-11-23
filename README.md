@@ -5,6 +5,7 @@ Still a work in progress; ricing is a tedious and time-consuming task in itself.
 Vim's config files get updated much frequently compared to other config files, since I'm mostly using Vim for coding.
 
 For the plugin files in Vim, I use Vundle, which can be set up by following this site:
+
 https://github.com/VundleVim/Vundle.vim
 
 For other plugins, I usually use the package manager in the Linux distro I use. If I don't find one on the repo, I simply clone it from Github.
