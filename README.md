@@ -12,11 +12,19 @@ For other plugins, I usually use the package manager in the Linux distro I use. 
 Plugins used in this Vim config:
 
 vim-airline (https://github.com/vim-airline/vim-airline)
+
 Nerdtree (https://github.com/preservim/nerdtree)
+
 vim-surround (https://github.com/tpope/vim-surround)
+
 fzf (https://github.com/junegunn/fzf)
+
 syntastic (https://github.com/vim-syntastic/syntastic)
+
 vim-fugitive (https://github.com/tpope/vim-fugitive)
+
 indentLine (https://github.com/Yggdroot/indentLine)
+
 YouCompleteMe (https://github.com/ycm-core/YouCompleteMe)
+
 indentpython (https://github.com/vim-scripts/indentpython.vim)
